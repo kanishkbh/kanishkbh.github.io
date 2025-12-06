@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Deep Learning for Fluid Simulations, Technical University of Munich, 2028 (expected)
+* M.Sc. (Hons.) in Computational Science and Engineering, Technical University of Munich, 2024
+* B.Tech. in Mechanical Engineering, National Institute of Technology Warangal, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025: Research Scientist, Leibniz Supercomputing Centre
+  * Application Specialist for workflows in Cloud and HPC Systems
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020: Mechanical Design Engineer, Siemens Energy
+  * Component design for steam turbines.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2019: Automotive Test Engineer, Ashok Leyland
+  * Homologation and performance testing of vehicle prototypes.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning: PyTorch, JAX
+* HPC: MPI, OpenMP, Slurm, Perf
+* Data Tools: Streamlit, Numpy, Pandas
 
 Publications
 ======
