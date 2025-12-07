@@ -25,6 +25,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Cheatsheets"
+    url: /cheatsheets/
     
   # - title: "CV"
   #   url: /cv-json/
