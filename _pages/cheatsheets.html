@@ -1,0 +1,12 @@
+---
+layout: archive
+permalink: /cheatsheets/
+title: "Cheatsheets"
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.cheatsheets reversed %}
+  {% include archive-single.html hide_meta=true %}
+{% endfor %}
